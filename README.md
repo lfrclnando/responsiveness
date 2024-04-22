@@ -1,5 +1,5 @@
 # Responsiveness | Responsividade | Capacidad de Reacción
-A simple example of responsiveness for mobile and desktop devices...</br>
+A simple example of responsiveness for mobile and desktop devices...</br></br>
 Exemplo simples de responsividade para dispositivos mobile e desktop...</br></br>
 Ejemplo simple de capacidad de respuesta para dispositivos móviles y desktop...
 
